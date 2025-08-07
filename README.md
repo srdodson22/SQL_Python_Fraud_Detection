@@ -87,4 +87,4 @@ This project demonstrates how SQL and Python can be combined to clean, analyze, 
 ---
 
 ## Project Link  
-GitHub Repository: [SQL/Python Fraud Detection](https://github.com/srdodson22)
+[SQL/Python Fraud Detection](Customer_Due_Diligence_Suspicious_Activity)
